@@ -23,7 +23,7 @@ Use this applicatin to create a professional README.md file. You need to run the
 ### Contributing
 No applicable contributors for this project.
 
-###T ests
+### Tests
 No applicable tests for this project.
 
 ### License
