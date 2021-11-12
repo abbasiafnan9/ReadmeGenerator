@@ -30,5 +30,5 @@ No applicable tests for this project.
 No applicable license for this project.
 
 ### Questions
-If you would like to contact me directly with questions, you can send an email to: abbasiafnan9@gmail.com
+If you would like to contact me directly with questions, you can send an email to: abbasiafnan9@gmail.com .
 You can find my GitHub profile at: https://github.com/abbasiafnan9
